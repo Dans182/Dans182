@@ -1,6 +1,6 @@
-### Hi there 👋
+### When I code my brain makes click!
 
-When I code my brain makes click!
+
 
 I'm a web developer who, although I like to abstract my mind while I navigate the backend of web apps, I find myself fascinated with ReactJS and the whole Frontend universe. I am constantly focused on learning. 
 
