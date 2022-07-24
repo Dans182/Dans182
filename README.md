@@ -1,6 +1,6 @@
 ### When I code my brain clicks! 🧠
 
-
+<img src="/header.png" alt="Mokkapps GitHub README header image">
 
 I'm a web developer who, although I like to abstract my mind while navigating the backend of web apps, I find myself fascinated with ReactJS ⚛️ and the whole Frontend universe. I am constantly focused on learning. 
 
