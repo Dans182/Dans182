@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+When I code my brain makes click!
+
+I'm a web developer who, although I like to abstract my mind while I navigate the backend of web apps, I find myself fascinated with ReactJS and the whole Frontend universe. I am constantly focused on learning. 
+
+- 🌱 I’m currently learning Typescript
+
 <!--
 **Dans182/Dans182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
