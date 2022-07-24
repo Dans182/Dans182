@@ -10,7 +10,7 @@ I'm a web developer who, although I like to abstract my mind while I navigate th
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/danielgaiteiro/" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="Linkedin profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/danielgaiteiro/" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="Linkedin profile"/></a>
 </p>
 
 <!--
