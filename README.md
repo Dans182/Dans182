@@ -4,7 +4,7 @@
 
 I'm a web developer who, although I like to abstract my mind while I navigate the backend of web apps, I find myself fascinated with ReactJS ⚛️ and the whole Frontend universe. I am constantly focused on learning. 
 
-- 🌱 I’m currently learning Typescript !![imagen](https://user-images.githubusercontent.com/97400328/180641309-8e891665-5da2-49e0-a413-e25cca77db45.png)
+- 🌱 I’m currently learning Typescript !![imagen](https://github.com/Dans182/Dans182/edit/main/ts.png)
 
 
 <!--
