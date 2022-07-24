@@ -8,11 +8,10 @@ I'm a web developer who, although I like to abstract my mind while I navigate th
 - 🧗‍♂️ Climbing is my new hobby.
 
 
-<h3 style="color:blue" align="left">Connect with me:</h3>
-<p align="left" style="color:blue">
-<a style="color:blue" href="https://www.linkedin.com/in/danielgaiteiro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin profile" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/danielgaiteiro/" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="Linkedin profile" height="30" width="40" /></a>
 </p>
-
 
 <!--
 **Dans182/Dans182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
