@@ -9,7 +9,7 @@ I'm a web developer who, although I like to abstract my mind while I navigate th
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="color:blue">
 <a style="color:blue" href="https://www.linkedin.com/in/danielgaiteiro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin profile" height="30" width="40" /></a>
 </p>
 
