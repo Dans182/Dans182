@@ -2,9 +2,10 @@
 
 
 
-I'm a web developer who, although I like to abstract my mind while I navigate the backend of web apps, I find myself fascinated with ReactJS and the whole Frontend universe. I am constantly focused on learning. 
+I'm a web developer who, although I like to abstract my mind while I navigate the backend of web apps, I find myself fascinated with ReactJS ⚛️ and the whole Frontend universe. I am constantly focused on learning. 
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Typescript ![imagen](https://user-images.githubusercontent.com/97400328/180641248-06d604b0-c455-49de-ab28-06b3d18a390e.png)
+
 
 <!--
 **Dans182/Dans182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
