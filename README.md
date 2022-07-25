@@ -6,6 +6,7 @@ I'm a web developer who, although I like to abstract my mind while navigating th
 
 - 🌱 I’m currently learning Typescript! <img alt="Typescript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 - 🧗‍♂️ Climbing is my new hobby.
+- 🇻🇪 Venezuelan living is 🇪🇸 Spain.
 
 
 <h3 align="left">Connect with me:</h3>
