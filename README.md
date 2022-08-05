@@ -2,7 +2,7 @@
 
 ### When I code, my brain clicks! 🧠
 
-Web developer interested in ReactJS ⚛️ and the whole Frontend universe, although I like to abstract my mind while navigating the backend of web applications. 
+Web Developer fascinated in ReactJS ⚛️ and the whole Frontend universe, although I like to abstract my mind while navigating the Backend of web applications. 
 
 - 🌱 I’m currently learning Typescript! <img alt="Typescript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 - 🧗‍♂️ Climbing is my new hobby.
