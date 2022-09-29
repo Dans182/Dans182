@@ -40,7 +40,6 @@ Web Developer fascinated in ReactJS ⚛️ and the whole Frontend universe, alth
 
 <br />
 <br />
----
 
 <!--
 **Dans182/Dans182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
