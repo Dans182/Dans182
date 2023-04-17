@@ -4,7 +4,7 @@
 
 Web Developer fascinated in ReactJS ⚛️ and the whole Frontend universe, although I like to abstract my mind while navigating the Backend of web applications. 
 
-- 🌱 I’m currently learning Java! <img alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+- 🌱 I’m currently learning Java! <img alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/qt/qt-original.svg" style="padding-right:10px;" />
 - 🧗‍♂️ Climbing is my new hobby.
 - 🇻🇪 Venezuelan living is 🇪🇸 Spain.
 
