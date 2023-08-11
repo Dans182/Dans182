@@ -8,7 +8,6 @@ Web Developer fascinated in ReactJS ⚛️ and the whole Frontend universe, alth
 - 🧗‍♂️ Climbing is my new hobby.
 - 🇻🇪 Venezuelan living is 🇪🇸 Spain.
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/danielgaiteiro/" target="blank"><img align="center"  width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin profile"/></a>
@@ -44,6 +43,12 @@ Web Developer fascinated in ReactJS ⚛️ and the whole Frontend universe, alth
 
 <br />
 <br />
+<br />
+
+### 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dans182&theme=nord&show_icons=true&locale=en&layout=compact" alt="Dans182" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dans182&theme=nord&show_icons=true&locale=en" alt="Dans182" /></p>
 
 <!--
 **Dans182/Dans182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
