@@ -37,19 +37,29 @@ Web Developer fascinated in ReactJS ⚛️ and the whole Frontend universe, alth
 <img align="left" alt="W11" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right:10px;" />
 <br />
 
-#### Frameworks
+#### Frameworks and Libraries
 <img align="left" alt="QT" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" style="padding-right:10px;" />
 <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <br />
 
 #### DBs
-
+<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SQLAlchemy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <br />
 
 #### Tools
 <img align="left" alt="Insomnia" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Putty" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" style="padding-right:10px;" />
 <br />
 
 #### Version Control
@@ -58,36 +68,18 @@ Web Developer fascinated in ReactJS ⚛️ and the whole Frontend universe, alth
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br />
 
-#### Other Hardwares
-
+#### Others
+<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 <br />
 
-
-
+<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Putty" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ViteJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="padding-right:10px;" />      
-
-
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQLAlchemy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firefox" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+
 
 <br />
 <br />
