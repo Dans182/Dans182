@@ -60,6 +60,7 @@ Web Developer fascinated in ReactJS ⚛️ and the whole Frontend universe, alth
 <img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Putty" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
 <br />
 
 #### Version Control
